@@ -1,0 +1,12 @@
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\QtpTests.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\QtpTests.pdb
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\Framework.exe
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\WebDriver.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\Framework.pdb
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\WebDriver.xml
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\obj\Debug\QtpTests.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\obj\Debug\QtpTests.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\LightPomFrameworkTutorial\QtpTests\obj\Debug\QtpTests.pdb

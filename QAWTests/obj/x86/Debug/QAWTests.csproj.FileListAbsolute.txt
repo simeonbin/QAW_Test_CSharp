@@ -1,0 +1,13 @@
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\obj\x86\Debug\QAWTests.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\QAWTests.dll.config
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\QAWTests.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\QAWTests.pdb
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\Framework.exe
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\WebDriver.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\Framework.pdb
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\WebDriver.xml
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\obj\x86\Debug\QAWTests.dll
+C:\Users\Simeon\Documents\WORK\e-DownloadCode\QAW_Tests_CSharp\QAWTests\obj\x86\Debug\QAWTests.pdb
